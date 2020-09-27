@@ -1,0 +1,7 @@
+{"file":"dices.png","frames":{
+"dice3":{"x":1,"y":100,"w":96,"h":97,"offX":0,"offY":10,"sourceW":96,"sourceH":117},
+"dice4":{"x":99,"y":1,"w":96,"h":97,"offX":0,"offY":8,"sourceW":96,"sourceH":115},
+"dice5":{"x":99,"y":100,"w":96,"h":96,"offX":0,"offY":5,"sourceW":96,"sourceH":107},
+"dice6":{"x":1,"y":1,"w":96,"h":97,"offX":0,"offY":9,"sourceW":96,"sourceH":108},
+"dice1":{"x":99,"y":198,"w":96,"h":96,"offX":0,"offY":0,"sourceW":96,"sourceH":104},
+"dice2":{"x":1,"y":199,"w":96,"h":96,"offX":0,"offY":7,"sourceW":96,"sourceH":112}}}

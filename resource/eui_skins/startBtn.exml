@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="startBtn" width="964" height="520" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group left="0" right="0" bottom="0" top="0" horizontalCenter="0" width="1920" height="1080">
+		<e:Rect width="1920" height="1080" verticalCenter="0" horizontalCenter="0" fillAlpha="0.8" zIndex="9999"/>
+		<e:Label id="btnLabel" text="开始下注" width="248" height="50" verticalCenter="0" horizontalCenter="0" verticalAlign="middle" textAlign="center" backgroundColor="0xffffff" zIndex="9999" textColor="0x000000" borderColor="0xffffff"/>
+		<e:Image width="289" height="303" x="0" y="0" source="resource/assets/cup/cup.png" anchorOffsetX="0" anchorOffsetY="0"/>
+	</e:Group>
+</e:Skin>

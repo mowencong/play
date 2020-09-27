@@ -1,0 +1,26 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js",
+		"libs/WXCloudApi/WXCloudApi.js",
+		"libs/egretmgobe/egretmgobe.js",
+		"libs/modules/mouse/mouse.js"
+	],
+	"game": [
+		"bin-debug/Desk.js",
+		"bin-debug/ChipsConfig.js",
+		"bin-debug/CupConfig.js",
+		"bin-debug/GlobalData.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/SicboConfig.js",
+		"bin-debug/SkillMask.js",
+		"bin-debug/Utils.js"
+	]
+}

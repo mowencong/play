@@ -1,0 +1,54 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,desktop_png,diceGameBg_png,diceLight_png,chips_json,cup_json,icons_json,dices_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "desktop_png",
+			"type": "image",
+			"url": "assets/desktop.png"
+		},
+		{
+			"name": "diceGameBg_png",
+			"type": "image",
+			"url": "assets/diceGameBg.png"
+		},
+		{
+			"name": "diceLight_png",
+			"type": "image",
+			"url": "assets/diceLight.png"
+		},
+		{
+			"name": "chips_json",
+			"type": "sheet",
+			"url": "assets/chips/chips.json",
+			"subkeys": "chips_1000,chips_1000d,chips_5000,chips_5000d,chips_1,chips_1d,chips_5,chips_5d,chips_10,chips_10d,chips_20,chips_20d,chips_50,chips_50d,chips_100,chips_100d"
+		},
+		{
+			"name": "cup_json",
+			"type": "sheet",
+			"url": "assets/cup/cup.json",
+			"subkeys": "dicing1,dicing5,dicing4,dicing2,dice4,dice1,dice6,dice5,dice3,dice2,diceCup,dicing3"
+		},
+		{
+			"name": "icons_json",
+			"type": "sheet",
+			"url": "assets/icons/icons.json",
+			"subkeys": "betMoney,balance,nameLogo"
+		},
+		{
+			"name": "dices_json",
+			"type": "sheet",
+			"url": "assets/dices/dices.json",
+			"subkeys": "dice3,dice4,dice5,dice6,dice1,dice2"
+		}
+	]
+}
